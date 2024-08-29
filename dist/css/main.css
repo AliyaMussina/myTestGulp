@@ -1,0 +1,14 @@
+.header {
+  background-color: gray;
+  padding: 100px 0;
+  font-size: 38px;
+  text-align: center;
+}
+
+.footer {
+  background-color: rgb(99, 57, 225);
+  padding: 100px 0;
+  font-size: 38px;
+  color: #fff;
+  text-align: center;
+}
